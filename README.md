@@ -36,3 +36,8 @@ The dataset `Global Restaurants Data.csv` contains information about restaurants
 ## ⚡ Conclusion
 
 This analysis highlights key trends in the global restaurant industry, including popular cuisines, expensive dining options, and cities with a high density of restaurants. It can be used for market research, travel insights, or culinary exploration.
+
+---
+## Author
+
+Dri – BSc Data Science student
